@@ -1,0 +1,1 @@
+select substr(concat("hi",trim(" welcome "),upper("home")),10,4)as full_txt;
